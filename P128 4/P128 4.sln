@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P195 2", "P195 2\P195 2.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P195 4", "P195 4\P195 4.csproj", "{C6D5C74C-0ECE-4B10-B17F-A5F441F08767}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P195 7", "P195 7\P195 7.csproj", "{F8DF44FC-B564-42E0-8B9A-3A82E9877DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P244 3", "P244 3\P244 3.csproj", "{9F25E539-6ABB-4FE5-BFA7-6D87401D9F92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +29,14 @@ Global
 		{C6D5C74C-0ECE-4B10-B17F-A5F441F08767}.Debug|x86.Build.0 = Debug|x86
 		{C6D5C74C-0ECE-4B10-B17F-A5F441F08767}.Release|x86.ActiveCfg = Release|x86
 		{C6D5C74C-0ECE-4B10-B17F-A5F441F08767}.Release|x86.Build.0 = Release|x86
+		{F8DF44FC-B564-42E0-8B9A-3A82E9877DAA}.Debug|x86.ActiveCfg = Debug|x86
+		{F8DF44FC-B564-42E0-8B9A-3A82E9877DAA}.Debug|x86.Build.0 = Debug|x86
+		{F8DF44FC-B564-42E0-8B9A-3A82E9877DAA}.Release|x86.ActiveCfg = Release|x86
+		{F8DF44FC-B564-42E0-8B9A-3A82E9877DAA}.Release|x86.Build.0 = Release|x86
+		{9F25E539-6ABB-4FE5-BFA7-6D87401D9F92}.Debug|x86.ActiveCfg = Debug|x86
+		{9F25E539-6ABB-4FE5-BFA7-6D87401D9F92}.Debug|x86.Build.0 = Debug|x86
+		{9F25E539-6ABB-4FE5-BFA7-6D87401D9F92}.Release|x86.ActiveCfg = Release|x86
+		{9F25E539-6ABB-4FE5-BFA7-6D87401D9F92}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

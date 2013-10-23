@@ -30,7 +30,7 @@ namespace P195_2
                     Console.WriteLine("We deliver to you!");
                     break;
                 }
-                else if (i == 9)
+                else if (i == ZipCodes.Length - 1)
                 {
                     Console.WriteLine("Sorry!  We don't deliver to your area!");
                 }          

@@ -29,6 +29,7 @@ namespace MethodProblems
                 price = 0;
             }
             Console.WriteLine(price.ToString("C"));
+            Console.ReadKey();
         }
     }
 }

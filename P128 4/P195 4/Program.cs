@@ -29,7 +29,7 @@ namespace P195_4
                     break;
                 }
 
-                else if (i == 5)
+                else if (i == areaCode.Length - 1)
                 {
                     Console.WriteLine("We do not cover your area.");
                 }

@@ -9,20 +9,16 @@ namespace P244_3
     {
         public static void Main()
         {
-            string myFirst;
-            string myMiddle;
-            string myLast;
-
-            string friendFirst;
-            string friendMiddle;
-            string friendLast;
-
             DisplayMonogram("T", "J", "B");
+            DisplayMonogram("J", "E", "L");
+            Console.ReadKey();
         }
 
         public static void DisplayMonogram(string first, string middle, string last)
         {
             Console.WriteLine("** {0}. {1}. {2} **", first, middle, last);
+            
         }
+        
     }
 }
